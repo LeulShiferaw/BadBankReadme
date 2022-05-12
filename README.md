@@ -13,10 +13,10 @@ This project is an example of a banking application. It was named BadBank becaus
 
 ## Screenshots
 
-![Create Account][ss1.png]
-![Create Account Success][ss1.png]
-![Login][ss1.png]
-![All data][ss1.png]
+![Create Account](ss1.png)
+![Create Account Success](ss2.png)
+![Login](ss3.png)
+![All data](ss4.png)
 
 ## Tech Stack
 HTML, CSS, React, NodeJS, MongoDB, Express (MERN stack)
