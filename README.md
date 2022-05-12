@@ -5,6 +5,7 @@ This project is an example of a banking application. It was named BadBank becaus
 
 ## Installation
 <ul>
+    <li>First clone the repo. Run "git clone 'https://github.com/LeulShiferaw/BadBankReadme.git'".
     <li>Make sure to install all dependencies first. You can run 'npm install' in the root folder for that.</li> 
     <li>Then you need to have a mongodb instance running. Run 'docker run -p 27017: 27017 --name anyName -d mongo' for that.</li> 
     <li>Then just run 'node index.js' in the root folder.</li> 
