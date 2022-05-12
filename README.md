@@ -20,20 +20,16 @@ HTML, CSS, React, NodeJS, MongoDB, Express (MERN stack)
 Current Features:
 <br/>
 <ol>
-    <li>1. Create Account</li>
-    <li>2. Login</li>
-    <li>3. Display All data</li>
+    <li>Create Account</li>
+    <li>Login</li>
+    <li>Display All data</li>
 </ol>
 Future Features:
 <br/>
-    <ol>
-    <li>
-    1. Better UI for display all data
-    </li>
-    <li>
-    2. Authentication and authorization
-    </li>
-    </ol>
+<ol>
+    <li>Better UI for display all data</li>
+    <li>Authentication and authorization</li>
+</ol>
 
 ## License
 MIT License used.
